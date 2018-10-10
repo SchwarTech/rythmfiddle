@@ -2,13 +2,13 @@
 
 require:
     - play
-    - com.gelinsoft -> play-rythm 1.0.1-b2
-    - com.gelinsoft -> app-base 2.1.3
-    - com.gelinsoft -> betterlogs 1.2i
+    - com.greenlaw110 -> play-rythm 1.0.1-b3
+    - com.greenlaw110 -> app-base 2.1.3
+    - com.greenlaw110 -> betterlogs 1.2j
 
 repositories:
-    - gelinsoft:
+    - greenlaw110:
         type: http
-        artifact: "http://gelinsoft.com/play/repo/[module]-[revision].zip"
+        artifact: "http://greenlaw110.com/play/repo/[module]-[revision].zip"
         contains:
-            - com.gelinsoft -> *
+            - com.greenlaw110 -> *
