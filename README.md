@@ -2,6 +2,7 @@ Introduction
 ------------
 * Works with Java 8 (1.8.0_181)
 * Use Play 1.5.1
+* Online playground: http://fiddle.rythmengine.org/#/editor
 
 How to run
 ----------
