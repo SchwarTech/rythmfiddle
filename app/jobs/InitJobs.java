@@ -32,7 +32,7 @@ public class InitJobs extends Job {
     /**
      * Since I am not using this demo for implicitVariables, I have
      * commented out the code that calls this method.
-     * 
+     *
      * This method causes the following error
      *
      * Error during the 500 response generation
